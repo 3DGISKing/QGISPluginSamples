@@ -1,0 +1,16 @@
+[general]
+name=HelloWorld
+qgisMinimumVersion=3.4
+qgisMaximumVersion=3.98
+description=HelloWorld
+about=HelloWorld
+version=0.1
+changelog=0.1
+    * not yet
+author=zhefengjin
+email=wugis1219@gmail.com
+tags=HelloWorld
+homepage=https://cesiumgis.com/
+repository=https://github.com/3DGISKing/QGISPluginSamples
+tracker=https://github.com/3DGISKing/QGISPluginSamples
+icon=icons/icon.png
